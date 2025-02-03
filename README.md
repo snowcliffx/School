@@ -1,4 +1,6 @@
 # [ STILL WIP ]
+
+## [[ English ]]
 > Please note that the information contained in this repository is based on the **2025 Turkish Curriculum at the middle school level**. Even though this is mainly for personal use, if you do wish to make use of it, remember that it **might not be fully up to date in the next few years**. Moreover, the information will be **severely outdated by the year of 2029** as the curriculum was revised completely very recently. This does not mean the repository will be taken down or archived, however, in hopes of [digital preservation](https://en.wikipedia.org/wiki/Digital_preservation).
 
 ## Why did I make this?
