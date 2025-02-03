@@ -11,14 +11,14 @@
             "id": "91991ca13aebdfab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -181,12 +181,13 @@
   },
   "active": "91991ca13aebdfab",
   "lastOpenFiles": [
+    "Konular/Fizik/TYT/Hareket ve Kuvvet/Etki-Tepki Prensibi.md",
+    "README.md",
     "Index.md",
     "Konular/Fizik/TYT/Optik/Yansıma ve Düzlem Ayna.md",
     "LICENSE",
     "Repo/LICENSE",
     "Repo",
-    "README.md",
     "Konular/Biyoloji/AYT/Duyu Organları/Duyu Organları.md",
     "Untitled.canvas",
     "Konular/Biyoloji/TYT/Canlıların Temel Bileşenleri/Karbonhidratlar.md",
@@ -210,7 +211,6 @@
     "Konular/Kimya/TYT/Atom ve Periyodik Sistem/Atom ve Periyodik Sistem.md",
     "Konular/Kimya/TYT/Doğa ve Kimya/Doğa ve Kimya.md",
     "Konular/Kimya/TYT/Karışımlar/Karışımlar.md",
-    "Konular/Kimya/TYT/Maddenin Halleri/Maddenin Halleri.md",
     "Konular/Kimya/TYT/Kimya Her Yerde",
     "Konular/Kimya/TYT/Asitler, Bazlar ve Tuzlar",
     "Konular/Kimya/TYT/Karışımlar",
