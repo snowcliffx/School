@@ -1,4 +1,4 @@
->Yapılarında C, H, O, N ve P elementleri bulunur. [[#DNA]] ve [[#RNA]] olmak üzere iki çeşidi vardır. Hücrede DNA yönetici, RNA yürütücü görev alır. İkisi de [[#Nükleotitler|Polinükleotit]] yapılıdır.
+>Yapılarında C, H, O, N ve P elementleri bulunur. **DNA** ve **RNA** olmak üzere iki çeşidi vardır. Hücrede DNA yönetici, RNA yürütücü görev alır. İkisi de [[#Nükleotitler|Polinükleotit]] yapılıdır.
 
 ___
 ## Nükleotitler
@@ -29,8 +29,8 @@ ___
 
 > [!info] RNA Çeşitleri
 > - **mRNA:** Mesajcı RNA'dır ve protein sentezinde DNA'dan aldığı bilgiyi [[Ribozom]]'a taşır.
-> - **tRNA:** Taşıyıcı RNA'dır ve mRNA'daki bilgiye göre amino asitleri [[Ribozom]]'a taşır.
-> - **rRNA:** Ribozomal RNA'dır ve [[Ribozom]]'un yapısına katılır. Polipeptit ve [[Proteinler|Protein]] sentezini sağlamakla birlikte mRNA ve tRNA'nın hidrojen bağı ile birleşmesini sağlar.
+> - **tRNA:** Taşıyıcı RNA'dır ve mRNA'daki bilgiye göre amino asitleri ribozom'a taşır.
+> - **rRNA:** Ribozomal RNA'dır ve ribozom'un yapısına katılır. Polipeptit ve [[Proteinler|Protein]] sentezini sağlamakla birlikte mRNA ve tRNA'nın hidrojen bağı ile birleşmesini sağlar.
 
 ___
 ## DNA
@@ -39,7 +39,7 @@ ___
 - Ayrıca yapısında [[Karbonhidratlar#^pentoz|Deoksiriboz]] ve fosfat bulunur.
 - Ana görevi genetik bilgiyi nesiller boyunca aktarmasıdır.
 - Hücrelerde [[Kromozom]] adı verilen yapılarda bulunur.
-- [[Prokaryot]] canlılarda [[Sitoplazma]]da, [[Ökaryot]] canlılarda [[Çekirdek]]te yer alır.
+- [[Hücre ve Organelleri#Prokaryot|Prokaryot]] canlılarda [[Sitoplazma|Sitoplazmada]], [[Hücre ve Organelleri#Ökaryot|Ökaryot]] canlılarda [[Çekirdek|Çekirdekte]] yer alır.
 - Hücre bölünürken eşlenir ve iki katına çıkar.
 - Açık adı deoksiribonükleik asittir.
 

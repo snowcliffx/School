@@ -2,6 +2,11 @@
 
 >Karbonhidrat ve yağlardan farklı olarak gen kontrolünde sentezlenirler. Yapı birimleri amino asittir ve suda çözünürler. Proteinin çeşidini amino asit çeşidi, sayısı ve dizilimi belirler. Bunlar da [[Nükleik Asitler#DNA|DNA]]'daki gen dizilimi tarafından belirlenir.
 
+> [!tip] Önemli!
+> - Enerji verme sırası: [Karbonhidrat > Yağ > Protein]
+> - Yapıya katılma sırası: [Protein > Yağ > Karbonhidrat]
+> - Enerji verme miktarı: [Yağ > Protein > Karbonhidrat]
+
 ___
 ## Amino Asitler
 - Bir amino asidin yapısında aynı karbon atomuna bağlı **hidrojen**, **karboksil** (COOH), **amino** (NH₂) ve **radikal** (R) grubu vardır.
@@ -30,5 +35,5 @@ ___
 > - Keratin: Saç, tırnak, kıl ve derinin yapımı.
 > - Kollajen: Kemiklerin yapısına katılma ve hücreleri bir arada tutma.
 > - Fibrinojen: Kanın damar dışında pıhtılaşması.
-> - [[Glikoproteinler]]: Hücreye özgünlük kazandırma.
+> - [[Hücre Zarı#Glikoprotein ve Glikolipitler|Glikoprotein]]: Hücreye özgünlük kazandırma.
 > - [[Enzimler]]: Biyokimyasal tepkimelerde görev üstlenme.

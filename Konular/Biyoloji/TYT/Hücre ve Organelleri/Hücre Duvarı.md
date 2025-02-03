@@ -1,0 +1,3 @@
+>Hücre zarının dışında bulunur, diğer bir adı çeperdir. Hücreler ya duvarsız ya da duvarlıdır. Bakteri, arke, çoğu protista, mantar ve bitki hücreleri duvarlı; bazı hayvan ve protista hücreleri duvarsızdır.
+
+>Bakterilerde **peptidoglikan**, arkelerde **pseudo (yalancı) peptidoglikan**, mantarlarda [[Karbonhidratlar#Polisakkaritler|Kitin]], alglerde ve bitkilerde ağırlıklı olarak [[Karbonhidratlar#Polisakkaritler|Selülozdan]] meydana gelir. Cansız ve tam geçirgendir. Kalın ve dayanıklı olup hücreyi darbelere karşı korur.

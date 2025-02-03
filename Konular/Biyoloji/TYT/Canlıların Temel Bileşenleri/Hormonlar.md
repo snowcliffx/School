@@ -1,4 +1,4 @@
->Yüksek organizasyonlu canlılarda hücre iletişimi sağlarlar. Genellikle [Protein](Proteinler.md) veya [Steroit](Lipitler.md#Steroitler) yapılı olmalarıyla birlikte [Amino Asit](Proteinler.md#Amino%20Asitler) yapılı da olabilirler. Bez veya sinir hücrelerinden çıkıp hedef hücreye kan ile taşınırlar.
+>Yüksek organizasyonlu canlılarda hücre iletişimi sağlarlar. Genellikle [[Proteinler|Protein]] veya [[##Steroitler|Steroit]] yapılı olmalarıyla birlikte [[Proteinler#Amino Asitler|Amino Asit]] yapılı da olabilirler. Bez veya sinir hücrelerinden çıkıp hedef hücreye kan ile taşınırlar.
 
 >Çok az miktarlarla bile uzun süreli ve büyük etki gösterebilirler. Hormonlar, yıkılıncaya kadar etkilerini sürdürür.
 

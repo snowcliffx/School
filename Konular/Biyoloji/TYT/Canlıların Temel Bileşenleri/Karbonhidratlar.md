@@ -17,7 +17,7 @@ ___
 > [!info] Monosakkaritlerin Özellikleri
 > - Monomer yapıdadırlar, suda iyi çözünürler, hücre zarından doğrudan geçerler.
 > - En önemlileri 3, 5 ve 6 karbonlu olanlardır.
-> - [[Glikoproteinler]] ve [[Glikolipitler]]'in yapısına katılırlar.
+> - [[Hücre Zarı#Glikoprotein ve Glikolipitler|Glikoprotein ve Glikolipitlerin]] yapısına katılırlar.
 
 ___
 ## Disakkaritler
@@ -42,17 +42,17 @@ ___
 
 ___
 ## Polisakkaritler
-7. Glikojen
+1. Glikojen
 	- Bakteri, mantar ve hayvanlarda depo polisakkaritidir.
 	- Açlık durumunda karaciğerdeki glikojen parçalanır ve çıkan glikoz kana verilir. 
 	- Çizgili kaslardaki glikoz ise kaslarda kalır.
-8. Nişasta
-	- Bitki depo polisakkaritidir, [[Lökoplast]] organellerinde depolanır.
-9. Kitin
-	- Eklem bacaklılarda dış iskeletin ve mantarlarda hücre duvarının yapısına katılır.
+2. Nişasta
+	- Bitki depo polisakkaritidir, [[Plastitler#Lökoplast|Lökoplast]] organellerinde depolanır.
+3. Kitin
+	- Eklem bacaklılarda dış iskeletin ve mantarlarda [[Hücre Duvarı|Hücre Duvarının]] yapısına katılır.
 	- İçinde azot vardır, yapısına kalsiyum katılırsa sertleşir.
-10. Selüloz
-	- Bitkilerde hücre duvarının yapısına katılır.
+4. Selüloz
+	- Bitkilerde [[Hücre Duvarı|Hücre Duvarının]] yapısına katılır.
 	- Hayvanlar sindirilemez, fakat bazılarının bağırsaklarında sindirebilen bakteriler vardır.
 
 > [!info] Polisakkaritlerin Özellikleri

@@ -34,9 +34,6 @@ ___
 > - Fazlası vücutta depolandığı için her gün alınması şart değildir.
 > - Vücuda alınmaları için yağlı besinlerin tüketilmesi gerekir.
 
-___
-## Esansiyel Moleküller
-
-> [!tip] Önemli!
+> [!faq] Esansiyel moleküller nedir?
 > - Bazı vitamin, amino asit ve yağ asitleri **esansiyel** yani temel moleküllerdir.
 > - **Esansiyel** moleküller, hayvanlarda dönüşümle elde edilemez ve dışardan alınmak zorundadır.
