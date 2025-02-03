@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Catppuccin",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "textFontFamily": "Noto Sans",
+  "nativeMenus": false
+}
