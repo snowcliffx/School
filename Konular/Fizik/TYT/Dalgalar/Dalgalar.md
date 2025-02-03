@@ -1,0 +1,5 @@
+[[Yay Dalgaları]]
+[[Deprem Dalgaları]]
+[[Ses Dalgaları]]
+[[Su Dalgaları]]
+[[Elektromanyetik Dalgalar]]

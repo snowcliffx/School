@@ -1,0 +1,5 @@
+[[Göz]]
+[[Kulak]]
+[[Dil]]
+[[Burun]]
+[[Deri]]
