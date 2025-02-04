@@ -4,3 +4,4 @@
 [[TYT Biyoloji]]
 
 [[AYT Biyoloji]]
+[[AYT Kimya]]
