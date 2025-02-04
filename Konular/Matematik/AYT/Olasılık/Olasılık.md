@@ -1,0 +1,3 @@
+[[Permütasyon]]
+[[Kombinasyon]]
+[[Binom]]

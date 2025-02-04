@@ -1,0 +1,2 @@
+[[Aritmetik Diziler]]
+[[Geometrik Diziler]]
