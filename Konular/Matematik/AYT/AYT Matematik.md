@@ -1,3 +1,5 @@
+[[Fonksiyonlar]]
+[[Polinomlar]]
 [[İkinci Dereceden Denklemler]]
 [[Parabol]]
 [[Eşitsizlikler]]
