@@ -1,8 +1,8 @@
-[[TYT Matematik]]
-[[TYT Fizik]]
+[[Matematik]]
+[[Fizik]]
 [[TYT Kimya]]
 [[TYT Biyoloji]]
 
 [[AYT Matematik]]
-[[AYT Biyoloji]]
-[[AYT Kimya]]
+[[Biyoloji]]
+[[Kimya]]
