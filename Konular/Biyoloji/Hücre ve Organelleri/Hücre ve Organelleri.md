@@ -15,7 +15,7 @@ ___
 - Hücreler temelde **prokaryot** ve **ökaryot** olarak ikiye ayrılır. Her iki hücre de temel olarak **sitoplazma** ve **hücre zarından** meydana gelir. Sitoplazmada bileşenler ve **organeller** bulunur. Ökaryotlarda **çekirdek** ve **zarlı organel** varken prokaryotta ikisi de yoktur.
 
 > [!info] Canlıların Hücre Yapıları
-> Bakteriler ve arkeler prokaryot iken [[Protista]], mantarlar, bitkiler ve hayvanlar ökaryottur. Prokaryot canlıların tamamı tek hücreliyken ökaryot canlıların tek hücreli, koloni ve çok hücreli örnekleri vardır. 
+> Bakteriler ve arkeler prokaryot iken protista, mantarlar, bitkiler ve hayvanlar ökaryottur. Prokaryot canlıların tamamı tek hücreliyken ökaryot canlıların tek hücreli, koloni ve çok hücreli örnekleri vardır. 
 ### Prokaryot
 >Boyutları çok küçüktür. **Hücre duvarı, hücre zarı ve sitoplazma** olmak üzere üç bölümden meydana gelir. Sitoplazmada su, ribozom, [[Nükleik Asitler#DNA|DNA]], [[Proteinler|Protein]], [[Karbonhidratlar#Polisakkaritler|Glikojen]] ve diğer temel bileşenler bulunur. Protein sentezi ribozomda, diğer metabolik olaylar sitoplazmada gerçekleşir. Bazılarında hücre duvarının dışında **kapsül** bulunur. Bazıları pasif hareket ederken bazıları **kamçı** (flagella) ile hareket eder. Bazıları **pilus** denen uzantılara sahiptir ve bunlar yüzeylere tutunmalarını sağlar. Fotosentez yapanlarda **tilakoit**, oksijenli solunum yapanlarda **mesozom** adı verilen hücre zarındaki kıvrımlar vardır.
 ### Ökaryot
@@ -32,7 +32,7 @@ ___
 - Zarsız Organeller:
 	- [[Ribozom]]
 	- [[Sentrozom]]
--  Zarlı Organeller:
+- Tek Zarlı Organeller:
 	- [[Endoplazmik Retikulum]]
 	- [[Golgi Aygıtı]]
 	- [[Lizozom]]
@@ -41,6 +41,3 @@ ___
 - Çift Zarlı Organeller:
 	- [[Mitokondri]]
 	- [[Plastitler]]
-
-> [!example] Ekstra Bilgi
-> Sitoplazmanın sıvı kısmına **sitozol** denir.

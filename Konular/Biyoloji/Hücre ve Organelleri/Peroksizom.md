@@ -1,0 +1,1 @@
+>Hidrojen peroksit (H₂O₂) gibi zehirli maddeleri **katalaz** enzimiyle parçalar.

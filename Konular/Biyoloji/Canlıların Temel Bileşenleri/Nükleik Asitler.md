@@ -3,7 +3,7 @@
 ___
 ## Nükleotitler
 - Bir nükleotit: azotlu organik baz, [[Karbonhidratlar#^pentoz|Pentoz]] ve fosfattan oluşur.
-- Azotlu baz ile pentoz arasında **glikozit**, pentoz ile fosfat arasında **ester** bağı vardır.
+- Azotlu baz ile pentoz arasında **glikozit**, pentoz ile fosfat arasında **fosfodiester** bağı vardır.
 ### Organik Bazlar
 1. Adenin (A)
 2. Guanin (G)
@@ -28,7 +28,7 @@ ___
 - Açık adı ribonükleik asittir.
 
 > [!info] RNA Çeşitleri
-> - **mRNA:** Mesajcı RNA'dır ve protein sentezinde DNA'dan aldığı bilgiyi [[Ribozom]]'a taşır.
+> - **mRNA:** Mesajcı RNA'dır ve protein sentezinde DNA'dan aldığı bilgiyi [[Ribozom|Ribozoma]] taşır.
 > - **tRNA:** Taşıyıcı RNA'dır ve mRNA'daki bilgiye göre amino asitleri ribozom'a taşır.
 > - **rRNA:** Ribozomal RNA'dır ve ribozom'un yapısına katılır. Polipeptit ve [[Proteinler|Protein]] sentezini sağlamakla birlikte mRNA ve tRNA'nın hidrojen bağı ile birleşmesini sağlar.
 
