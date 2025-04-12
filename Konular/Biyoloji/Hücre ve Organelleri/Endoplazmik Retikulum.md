@@ -2,7 +2,7 @@
 
 ---
 ## Granürlü E.R.
-- Üzerlerine kesinlikle [[Ribozom]] bulunur.
+- Üzerlerinde [[Ribozom]] bulunur.
 - Sentezlenen [[Proteinler]], [[Golgi Aygıtı|Golgi Aygıtına]] taşınır.
 
 ---
