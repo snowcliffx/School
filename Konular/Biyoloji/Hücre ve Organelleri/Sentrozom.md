@@ -1,0 +1,1 @@
+>Zarsız olup her biri iki tane **sentriyolden** meydana gelir. Her sentriyol ise dokuz tane **fibrilden;** her fibril üç tane [[Hücre İskeleti#Miktrotübüller|Miktrotübülden]] meydana gelir. Hücre bölünmesinde görev alır ve hayvan spermlerinde kamçı oluşturur. Damarlı bitki hücrelerinde sentriyolün görevini mikrotübüller üstlenir.
