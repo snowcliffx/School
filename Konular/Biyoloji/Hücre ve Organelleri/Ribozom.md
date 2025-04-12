@@ -1,3 +1,3 @@
 >Zarlı yapıda değildir, bu yüzden tüm hücrelerde bulunur ve protein sentezi için gereklidir. Yapısında [[Nükleik Asitler#RNA|rRNA]] ile [[Proteinler]] vardır. Büyük ve küçük iki alt birimi vardır. Bu birimler protein sentezi sırasında bir araya gelir.
 
->Ökaryot hücrelerde [[Çekirdek#Çekirdekçik|Çekirdekçikte]] üretilir; [[Sitoplazma]] içinde serbest halde durur ya da [[Endoplazmik Retikulum]] organeline bağlanır. Serbest ribozomlarda üretilen proteinler zarın yapısına katılır. [[Plastitler#Kloroplast|Kloroplast]] ve [[Mitokondri]] organellerinin kendi ribozomları bulunur.
+>Ökaryot hücrelerde [[Çekirdek#Çekirdekçik (Nukleolus)|Çekirdekçikte]] üretilir; [[Sitoplazma]] içinde serbest halde durur ya da [[Endoplazmik Retikulum]] organeline bağlanır. Serbest ribozomlarda üretilen proteinler zarın yapısına katılır. [[Plastitler#Kloroplast|Kloroplast]] ve [[Mitokondri]] organellerinin kendi ribozomları bulunur.

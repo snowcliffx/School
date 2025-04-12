@@ -6,9 +6,9 @@ ___
 ## İnorganik Bileşenler
 - [[Tuz ve Mineraller#Mineraller|Minareller]]
 - [[Tuz ve Mineraller#Tuzlar|Tuzlar]]
-- [[Asit Baz Su#Asitler|Asitler]]
-- [[Asit Baz Su#Bazlar|Bazlar]]
-- [[Asit Baz Su#Su|Su]]
+- Asitler
+- Bazlar
+- Su
 
 > [!info] İnorganik Bileşenlerin Özellikleri
 > - Küçüktürler, sindirilmezler, doğrudan hücre zarından geçerler, yapıya katılırlar.

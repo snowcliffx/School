@@ -3,7 +3,8 @@
 ___
 ## Nükleotitler
 - Bir nükleotit: azotlu organik baz, [[Karbonhidratlar#^pentoz|Pentoz]] ve fosfattan oluşur.
-- Azotlu baz ile pentoz arasında **glikozit**, pentoz ile fosfat arasında **fosfodiester** bağı vardır.
+- Azotlu baz ile pentoz arasında **glikozit**, pentoz ile fosfat arasında **ester** bağı vardır.
+- Üst üste iki tane nükleotit arasında **fosfodiester** bağı vardır.
 ### Organik Bazlar
 1. Adenin (A)
 2. Guanin (G)
@@ -38,7 +39,7 @@ ___
 - Yapı birimleri nükleotitlerdir ve **çift** zincirlidir.
 - Ayrıca yapısında [[Karbonhidratlar#^pentoz|Deoksiriboz]] ve fosfat bulunur.
 - Ana görevi genetik bilgiyi nesiller boyunca aktarmasıdır.
-- Hücrelerde [[Kromozom]] adı verilen yapılarda bulunur.
+- Hücrelerde [[Çekirdek#Kromatin İpler (Kromozomlar)|Kromozom]] adı verilen yapılarda bulunur.
 - [[Hücre ve Organelleri#Prokaryot|Prokaryot]] canlılarda [[Sitoplazma|Sitoplazmada]], [[Hücre ve Organelleri#Ökaryot|Ökaryot]] canlılarda [[Çekirdek|Çekirdekte]] yer alır.
 - Hücre bölünürken eşlenir ve iki katına çıkar.
 - Açık adı deoksiribonükleik asittir.
