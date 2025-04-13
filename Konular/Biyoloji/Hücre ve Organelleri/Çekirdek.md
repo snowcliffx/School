@@ -25,4 +25,3 @@ ___
 > [!warning] Dikkat!
 > - Özelleşme sonucu çekirdek kaybolabilir. **Örnek: olgun alyuvar hücresi.**
 > - Özelleşme sonucu iki çekirdekli hücre olabilir. **Örnek: çizgili kas hücreleri.**
-

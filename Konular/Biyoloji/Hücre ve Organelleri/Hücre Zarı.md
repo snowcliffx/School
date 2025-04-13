@@ -23,12 +23,4 @@ ___
 - Sadece zarın **dış yüzeyinde** bulunur.
 
 > [!warning] Dikkat!
-> - Hücre duvarının aksine hücre zarı **seçiçi yarı geçirgendir**.
-> 	1. Küçük > Büyük
-> 	2. Nötr > İyon
-> 	3. Negatif İyon > Pozitif İyon
-> 	4. Yağda Çözünen > Suda Çözünen
-> - Yukarıdaki gibi olmak üzere bazı moleküller zardan daha kolay geçer
-
-
-
+> Hücre duvarının aksine hücre zarı **seçiçi yarı geçirgendir**.

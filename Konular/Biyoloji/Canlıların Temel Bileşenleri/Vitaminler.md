@@ -1,7 +1,7 @@
 >Yapılarında C, H ve O bulunduğu gibi N ve Co gibi elementler de bulunabilir. Enerji vermezler, yapıya katılmazlar ve sindirilmezler. [[Enzimler#Koenzim|Koenzim]], yani **yardımcı enzim** olarak çalışırlar. A, D, E ve K vitaminleri **yağda** çözünürken B ve C vitaminleri **suda** çözünür.
 
 ___
-## Suda Çözünen Vitaminler [B, C]
+## Suda Çözünen Vitaminler
 1. B Vitamini:
 	- Yeşil sebzeler, portakal, tahıllar, süt ve deniz ürünleri, et ürünleri ve yumurta gibi birçok besinde bol miktarda bulunur.
 	- Eksikliğinde **anemi** (kansızlık), **kalp yetmezliği** ve **bunama** sorunları ortaya çıkabilir.
@@ -14,7 +14,7 @@ ___
 > - Eksiklikleri, enerji üretimini azalttığından bağışıklığı ve aklı sağlığını aksatabilir.
 
 ___
-## Yağda Çözünen Vitaminler [A, D, E, K]
+## Yağda Çözünen Vitaminler
 1. A Vitamini:
 	- Özellikle havuç, yeşil sebze, karaciğer, yumurta ve süt ürünlerinde bulunur.
 	- **Öncü vitamin** şeklinde alınır ve karaciğerde A vitaminine dönüştürülür.
