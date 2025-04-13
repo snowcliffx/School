@@ -1,4 +1,4 @@
->Yapılarında C, H ve O bulunduğu gibi N ve Co gibi elementler de bulunabilir. Enerji vermezler, yapıya katılmazlar ve sindirilmezler. [[Enzimler#Koenzim|Koenzim]], yani **yardımcı enzim** olarak çalışırlar. A, D, E ve K vitaminleri **yağda** çözünürken B ve C vitaminleri **suda** çözünür.
+>Yapılarında C, H ve O bulunduğu gibi N ve Co gibi elementler de bulunabilir. Enerji vermezler, yapıya katılmazlar ve sindirilmezler. [[Enzimler#Koenzim|Koenzim]], yani **yardımcı enzim** olarak çalışırlar. A, D, E ve K vitaminleri yağda çözünürken B ve C vitaminleri suda çözünür.
 
 ___
 ## Suda Çözünen Vitaminler
