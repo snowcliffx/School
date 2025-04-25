@@ -1,6 +1,6 @@
 >C, H ve O elementlerinden meydana gelirler ama N ve P içerenleri de vardır. A, D, E ve K vitaminlerini iyi çözerler. Diğer bir adları yağlardır.
 
->Hayvanlar, besinlerin fazlasını yağa çevirerek depolar. Bazı [[Hormonlar]] da yağdan yapılır ve düzenleyicidir. Lipitler aynı zamanda [[Karbonhidratlar]] ile birleşerek [[Hücre Zarı#Glikoprotein ve Glikolipitler|Glikolipitleri]]  oluşturur.
+>Hayvanlar, besinlerin fazlasını yağa çevirerek depolar. Bazı [[Hormonlar]] da yağdan yapılır ve düzenleyicidir. Lipitler aynı zamanda [[Karbonhidratlar]] ile birleşerek [[Hücre Zarı#Glikoprotein ve Glikolipitler|Glikolipitleri]] oluşturur.
 
 > [!warning] Dikkat!
 > Lipitler asla polimer yapılı değildir!
