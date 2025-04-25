@@ -7,8 +7,8 @@ ___
 1. Üç Karbonlular (Triozlar):
 	- Fosfogliseraldehit
 2. Beş Karbonlular (Pentozlar): ^pentoz
-	- Riboz: [[Nükleik Asitler#RNA|RNA]] yapısına katılır.
-	- Deoksiriboz: [[Nükleik Asitler#DNA|DNA]] ve [[ATP]] yapısına katılır.
+	- Riboz: [[RNA]] ve [[ATP]] yapısına katılır.
+	- Deoksiriboz: [[DNA]] yapısına katılır.
 3. Altı Karbonlular (Heksozlar):
 	- Glikoz
 	- Galaktoz

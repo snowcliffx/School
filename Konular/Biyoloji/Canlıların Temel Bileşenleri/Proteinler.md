@@ -1,6 +1,6 @@
 >Tüm çeşitlerinde C, H, O ve N bulunur. Canlı yapısında en fazla bulunan organik moleküldür. Öncelikli olarak yapıya katılır, sadece zorda kalındığında enerji verici olarak kullanılır.  Yüksek sıcaklık, basınç, pH gibi faktörler yapısını bozabilir.
 
->Karbonhidrat ve yağlardan farklı olarak gen kontrolünde sentezlenirler. Yapı birimleri amino asittir ve suda çözünürler. Proteinin çeşidini amino asit çeşidi, sayısı ve dizilimi belirler. Bunlar da [[Nükleik Asitler#DNA|DNA]]'daki gen dizilimi tarafından belirlenir.
+>Karbonhidrat ve yağlardan farklı olarak gen kontrolünde sentezlenirler. Yapı birimleri amino asittir ve suda çözünürler. Proteinin çeşidini amino asit çeşidi, sayısı ve dizilimi belirler. Bunlar da [[Konular/Biyoloji/Canlıların Temel Bileşenleri/Nükleik Asitler#DNA|DNA]]'daki gen dizilimi tarafından belirlenir.
 
 > [!tip] Önemli!
 > - Enerji verme sırası: [Karbonhidrat > Yağ > Protein]

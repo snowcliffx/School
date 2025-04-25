@@ -1,4 +1,4 @@
->Sadece ökaryot canlılarda bulunur ve zarı çift katlıdır.
+>Sadece ökaryot canlılarda bulunur. Dört tane kısımdan meydana gelir. 
 
 ___
 ## Çekirdek Zarı (Karyolemma)

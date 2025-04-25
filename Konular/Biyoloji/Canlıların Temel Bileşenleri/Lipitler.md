@@ -24,6 +24,6 @@ ___
 
 - Birbirine bağlanmış dört halkadan oluşur ve monomer yapılıdır. Hücre zarından doğrudan geçebilmeleri, hormonların yapısına katılınca olumlu bir özelliktir.
 
-- Steroit hormonlar, [[Nükleik Asitler#DNA|DNA]] ile doğrudan iletişime geçerek gen düzenlenmesinde rol oynar. Eşeysel hormonlar ile birlikte kortizol ve aldosteron hormonları steroit yapılıdır.
+- Steroit hormonlar, [[Konular/Biyoloji/Canlıların Temel Bileşenleri/Nükleik Asitler#DNA|DNA]] ile doğrudan iletişime geçerek gen düzenlenmesinde rol oynar. Eşeysel hormonlar ile birlikte kortizol ve aldosteron hormonları steroit yapılıdır.
 
 - Bir steroit türü olan **kolesterol**, hayvan hücre zarlarını daha sert ve katı bir hale dönüştürebilir.
