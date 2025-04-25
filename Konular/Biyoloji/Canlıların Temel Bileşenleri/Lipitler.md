@@ -8,7 +8,7 @@
 ___
 ## Trigliseritler [Nötral Yağlar]
 
-- **Doymuş** (hayvansal | katı), **doymamış** (bitkisel | sıvı) ve **doyurulmuş** olarak üçe ayrılır. Doymamış yağlarda çiftli bağ bulunur.
+- **Doymuş** (hayvansal ve katı), **doymamış** (bitkisel ve sıvı) ve **doyurulmuş** olarak üçe ayrılır. Doymamış yağlarda çiftli bağ bulunur.
 
 - **Üç yağ asidi** ve **bir gliserolun** sentezinden meydana gelir ve sonucunda 3H₂O çıkar. Bu yüzden **trimer** yapılıdır. Sadece tek çeşit yağ asidiyle oluşmak zorunda değildir.
 
@@ -24,6 +24,6 @@ ___
 
 - Birbirine bağlanmış dört halkadan oluşur ve monomer yapılıdır. Hücre zarından doğrudan geçebilmeleri, hormonların yapısına katılınca olumlu bir özelliktir.
 
-- Steroit hormonlar, [[Konular/Biyoloji/Canlıların Temel Bileşenleri/Nükleik Asitler#DNA|DNA]] ile doğrudan iletişime geçerek gen düzenlenmesinde rol oynar. Eşeysel hormonlar ile birlikte kortizol ve aldosteron hormonları steroit yapılıdır.
+- Steroit hormonlar, [[DNA]] ile doğrudan iletişime geçerek gen düzenlenmesinde rol oynar. Eşeysel hormonlar ile birlikte kortizol ve aldosteron hormonları steroit yapılıdır.
 
 - Bir steroit türü olan **kolesterol**, hayvan hücre zarlarını daha sert ve katı bir hale dönüştürebilir.
