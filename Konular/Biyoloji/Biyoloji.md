@@ -13,3 +13,4 @@ ___
 - ## [[Sinir Sistemi]]
 - ## [[Endokrin Sistem]]
 - ## [[Duyu Organları]]
+- ## [[Genden Proteine]]
