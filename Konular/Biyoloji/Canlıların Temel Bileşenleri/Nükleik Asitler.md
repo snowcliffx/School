@@ -1,24 +1,4 @@
 >Yapılarında C, H, O, N ve P elementleri bulunur. **DNA** ve **RNA** olmak üzere iki çeşidi vardır. Hücrede DNA yönetici, RNA yürütücü görev alır. İkisi de [[#Nükleotitler|Polinükleotit]] yapılıdır.
-
-___
-## Nükleotitler
-- Bir nükleotit: azotlu organik baz, [[Karbonhidratlar#^pentoz|Pentoz]] ve fosfattan oluşur.
-- Azotlu baz ile pentoz arasında **glikozit**, pentoz ile fosfat arasında **ester** bağı vardır.
-- Üst üste iki tane nükleotit arasında **fosfodiester** bağı vardır.
-### Organik Bazlar
-1. Adenin (A)
-2. Guanin (G)
-3. Sitozin (S = C)
-4. Timin (T)
-5. Urasil (U)
-
-- Organik bazlar **pürin** (çift halkalı) ve **pirimidin** (tek halkalı) olmak üzere ikiye ayrılır.
-- Adenin ve guanin pürin; sitozin, timin ve urasil pirimidindir.
-- Adenin ve timin (veya urasil) aralarında **ikili** hidrojen bağı kurarken sitozin ve guanin **üçlü** hidrojen bağı kurar.
-
-> [!tip] Önemli!
-> DNA'da adenin sayısı timin sayısına, sitozin sayısı guanin sayısına eşittir. Bu yüzden de pürin sayısı pirimidin sayısına eşit olur.
-
 ___
 ## RNA
 - Adenin, guanin, sitozin ve urasil organik bazları bulunur.
