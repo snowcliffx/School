@@ -2,3 +2,5 @@
 2. [[DNA]]
 3. [[RNA]]
 4. [[Protein Sentezi]]
+5. [[Genetik Mühendisliği]]
+6. [[Biyoteknoloji]]

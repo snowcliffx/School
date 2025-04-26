@@ -1,0 +1,5 @@
+1. [[Fotosentez]]
+2. [[Kemosentez]]
+3. [[Oksijenli Solunum]]
+4. [[Oksijensiz Solunum]]
+5. [[Fermantasyon]]

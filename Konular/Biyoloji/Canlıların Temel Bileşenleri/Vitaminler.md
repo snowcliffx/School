@@ -28,7 +28,7 @@ ___
 	- Eksikliğinde **anemi** ve çeşitli **beyin ile kas** hastalıkları gözlenebilir.
 4. K Vitamini:
 	- Balık, yeşil sebze, çay, yonca ve ıspanak gibi besinlerde bulunur.
-	- Eksikliğinde Kanın pıhtılaşması gecikebilir.
+	- Eksikliğinde kanın pıhtılaşması gecikebilir.
 
 > [!NOTE] Yağda Çözünen Vitaminlerin Genel Özellikleri
 > - Fazlası vücutta depolandığı için her gün alınması şart değildir.

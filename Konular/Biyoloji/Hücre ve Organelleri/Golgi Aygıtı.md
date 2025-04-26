@@ -2,4 +2,4 @@
 
 > [!faq] Golgi aygıtı nasıl oluşur ve neleri oluşturur? 
 > - Golginin kendisi endoplazmik retikulumdan kopan parçalarla oluşur.
-> - Golgiden kopan parçalar ise lizozom, [[Peroksizom]] ve [[Koful|Salgı Kofulunu]] oluşturur.
+> - Golgiden kopan parçalar ise [[Lizozom]], [[Peroksizom]] ve [[Koful|Salgı Kofulunu]] oluşturur.
