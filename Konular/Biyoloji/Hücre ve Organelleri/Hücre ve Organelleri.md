@@ -12,12 +12,12 @@ ___
 
 ___
 ## Hücrelerin Gruplandırılması
-- Hücreler temelde **prokaryot** ve **ökaryot** olarak ikiye ayrılır. Her iki hücre de temel olarak **sitoplazma** ve **hücre zarından** meydana gelir. Sitoplazmada bileşenler ve **organeller** bulunur. Ökaryotlarda **çekirdek** ve **zarlı organel** varken prokaryotta ikisi de yoktur.
+- Hücreler temelde **prokaryot** ve **ökaryot** olarak ikiye ayrılır. Her iki hücre de temel olarak [[Sitoplazma]] ve [[Hücre Zarı|Hücre Zarından]] meydana gelir. Sitoplazmada bileşenler ve **organeller** bulunur. Ökaryotlarda [[Çekirdek]] ve **zarlı organel** varken prokaryotta ikisi de yoktur.
 
 > [!info] Canlıların Hücre Yapıları
 > Bakteriler ve arkeler prokaryot iken protista, mantarlar, bitkiler ve hayvanlar ökaryottur. Prokaryot canlıların tamamı tek hücreliyken ökaryot canlıların tek hücreli, koloni ve çok hücreli örnekleri vardır. 
 ### Prokaryot
->Boyutları çok küçüktür. **Hücre duvarı, hücre zarı ve sitoplazma** olmak üzere üç bölümden meydana gelir. Sitoplazmada su, ribozom, [[DNA]], [[Proteinler|Protein]], [[Karbonhidratlar#Polisakkaritler|Glikojen]] ve diğer temel bileşenler bulunur. Protein sentezi ribozomda, diğer metabolik olaylar sitoplazmada gerçekleşir. Bazılarında hücre duvarının dışında **kapsül** bulunur. Bazıları pasif hareket ederken bazıları **kamçı** (flagella) ile hareket eder. Bazıları **pilus** denen uzantılara sahiptir ve bunlar yüzeylere tutunmalarını sağlar. Fotosentez yapanlarda **tilakoit**, oksijenli solunum yapanlarda **mesozom** adı verilen hücre zarındaki kıvrımlar vardır.
+>Boyutları çok küçüktür. [[Hücre Duvarı]], [[Hücre Zarı]] ve [[Sitoplazma]] olmak üzere üç bölümden meydana gelir. Sitoplazmada su, ribozom, [[DNA]], [[Proteinler|Protein]], [[Karbonhidratlar#Polisakkaritler|Glikojen]] ve diğer temel bileşenler bulunur. Protein sentezi ribozomda, diğer metabolik olaylar sitoplazmada gerçekleşir. Bazılarında hücre duvarının dışında **kapsül** bulunur. Bazıları pasif hareket ederken bazıları **kamçı** (flagella) ile hareket eder. Bazıları **pilus** denen uzantılara sahiptir ve bunlar yüzeylere tutunmalarını sağlar. Fotosentez yapanlarda **tilakoit**, oksijenli solunum yapanlarda **mesozom** adı verilen hücre zarındaki kıvrımlar vardır.
 ### Ökaryot
 >Prokaryotlara göre büyüktür. **Hücre duvarı, hücre zarı, sitoplazma ve çekirdek** olmak üzere dört bölümden meydana gelir. Bazı protista ve hayvanlarda hücre duvarı bulunmaz. Sitoplazmada temel bileşenlerle zarlı ve zarsız organeller bulunur. DNA ise çekirdekte bulunur. Metabolik olayların bazısı sitoplazmada bazısı ise organellerde gerçekleşir. Çift zarlı organellerin kendilerine has DNA'ları vardır.
 
