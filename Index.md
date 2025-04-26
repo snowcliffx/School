@@ -3,4 +3,4 @@
 [[Biyoloji]]
 [[Kimya]]
 
-[[Terimler]]
+[[Biyoloji Terimler]]

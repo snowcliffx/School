@@ -38,7 +38,7 @@ ___
 > - Suda tam çözünürler fakat büyük oldukları için sindirilmeleri gerekir.
 > - Disakkaritler, iki tane [[#Monosakkaritler|Monosakkaritin]] birleşmesiyle meydana gelir.
 > - Dehidrasyon tepkimesi: [Glikoz + Monosakkarit -> Disakkarit + H₂O] halindedir.
-> - Monosakkaritler arasında glikozit bağı vardır.
+> - Monosakkaritler arasında **glikozit bağı** vardır.
 
 ___
 ## Polisakkaritler
@@ -59,5 +59,5 @@ ___
 > - Suda nerdeyse hiç çözünmezler, çok büyük olduklarından sindirilmeleri gerekir.
 > - Tüm polisakkaritler birden fazla glikozun birleşmesiyle meydana gelir.
 > - Dehidrasyon tepkimesi: [nGlikoz -> Polisakkarit + (n-1)H₂O] halindedir.
-> - Glikozlar arasında glikozit bağı vardır.
+> - Glikozlar arasında **glikozit bağı** vardır.
 
