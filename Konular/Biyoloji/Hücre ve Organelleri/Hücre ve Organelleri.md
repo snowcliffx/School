@@ -26,8 +26,8 @@ ___
 1. [[Hücre Duvarı]]
 2. [[Hücre Zarı]]
 3. [[Sitoplazma]]
-4. [[Çekirdek]]
-5. [[Hücre İskeleti]]
+4. [[Hücre İskeleti]]
+5. [[Çekirdek]]
 
 - Zarsız Organeller:
 	- [[Ribozom]]
