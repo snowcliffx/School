@@ -1,12 +1,10 @@
->C, H ve O elementlerinden meydana gelirler ama N ve P içerenleri de vardır. A, D, E ve K vitaminlerini iyi çözerler. Diğer bir adları yağlardır.
-
->Hayvanlar, besinlerin fazlasını yağa çevirerek depolar. Bazı [[Hormonlar]] da yağdan yapılır ve düzenleyicidir. Lipitler aynı zamanda [[Karbonhidratlar]] ile birleşerek [[Hücre Zarı#Glikoprotein ve Glikolipitler|Glikolipitleri]] oluşturur.
+>C, H ve O elementlerinden meydana gelirler ama N ve P içerenleri de vardır. A, D, E ve K vitaminlerini iyi çözerler. Diğer bir adları yağlardır. Hayvanlar, besinlerin fazlasını yağa çevirerek depolar. Bazı [[Hormonlar]] da yağdan yapılır ve düzenleyicidir. Lipitler aynı zamanda [[Karbonhidratlar]] ile birleşerek [[Hücre Zarı#Glikoprotein ve Glikolipitler|Glikolipitleri]] oluşturur.
 
 > [!warning] Dikkat!
 > Lipitler asla polimer yapılı değildir!
 
 ___
-## Trigliseritler [Nötral Yağlar]
+## Trigliseritler (Nötral Yağlar)
 
 - **Doymuş** (hayvansal ve katı), **doymamış** (bitkisel ve sıvı) ve **doyurulmuş** olarak üçe ayrılır. Doymamış yağlarda çiftli bağ bulunur.
 
