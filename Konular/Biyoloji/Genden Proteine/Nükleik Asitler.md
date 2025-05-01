@@ -9,8 +9,8 @@ ___
 1. Adenin (A)
 2. Guanin (G)
 3. Sitozin (S / C)
-4. Timin (T)
-5. Urasil (U)
+4. Timin (T) ([[RNA]] molekülünde bulunmaz)
+5. Urasil (U) ([[DNA]] molekülünde bulunmaz)
 
 - Organik bazlar **pürin** (çift halkalı) ve **pirimidin** (tek halkalı) olmak üzere ikiye ayrılır.
 - Adenin ve guanin pürin; sitozin, timin ve urasil pirimidindir.
@@ -18,9 +18,3 @@ ___
 
 > [!tip] Önemli!
 > DNA'da adenin sayısı timin sayısına, sitozin sayısı guanin sayısına eşittir. Bu yüzden de pürin sayısı pirimidin sayısına eşit olur
-
-> [!faq] Santral Dogma (Kalıtsal Bilgi Akışı) nedir?
-> - Santral Dogma kısaca kalıtsal bilginin aktarımının genel adıdır.
-> - **Replikasyon:** DNA'nın eşlenmesi.
-> - **Transkripsiyon:** RNA sentezi.
-> - **Translasyon:** Protein sentezi.

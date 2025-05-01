@@ -1,4 +1,4 @@
->DNA, tRNA ve mRNA'daki nükleotitler üçlü diziler şifreler oluşturur. Genetik şifre denen bu dizilier DNA ve mRNA'da **kodon,** tRNA'da **anitkodon** olarak adlandırılır. **Anlamlı** ve **durdurucu (anlamsız)** olarak ikiye ayrılırlar. Toplam 64 çeşit kodon bulunurken 61 çeşit antikodon bulunur çünkü **durdurucu kodonların antikodon karşılığı yoktur.**
+>DNA, tRNA ve mRNA'daki nükleotitler üçlü diziler şifreler oluşturur. Genetik şifre denen bu dizilier DNA ve mRNA'da **kodon,** tRNA'da **anitkodon** olarak adlandırılır. **Anlamlı** ve **durdurucu (anlamsız)** olarak ikiye ayrılırlar. Toplam 64 çeşit kodon bulunurken 61 çeşit antikodon bulunur çünkü **durdurucu kodonların antikodon karşılığı yoktur.** Protein sentezinin diğer bir adı **translasyondur.**
 
 > [!warning] Dikkat!
 > - Bir amino asit birden fazla kodon tarafından kodlanabilir.
@@ -27,3 +27,9 @@
 > - Bir mRNA, ribozom ile bağlantısını keserse [[Enzimler]] tarafından parçalanır.
 > - Bu yüzden bir mRNA okunduktan sonra başka bir ribozoma bağlanır.
 > - Bu sayede bir mRNA binlerce protein sentezi için kullanılabilir.
+
+> [!faq] Santral Dogma (Kalıtsal Bilgi Akışı) nedir?
+> - Santral Dogma kısaca kalıtsal bilginin aktarımının genel adıdır.
+> - **Replikasyon:** DNA'nın eşlenmesi.
+> - **Transkripsiyon:** RNA sentezi.
+> - **Translasyon:** Protein sentezi.

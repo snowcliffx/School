@@ -1,4 +1,4 @@
->Ribonükleotitlerden meydana gelir ve **tek zincirlidir.** Zincir oluşturuan nükleotitlerin arasında **fosfodiester** bağı vardır. Karşılıklı nükleotitlerin arasında **hidrojen** bağı vardır. Üç çeşit RNA vardır ve hepsi [[DNA]] tarafından sentezlenir.
+>Ribonükleotitlerden meydana gelir ve **tek zincirlidir.** Zincir oluşturuan nükleotitlerin arasında **fosfodiester** bağı vardır. Üç çeşit RNA vardır ve hepsi [[DNA]] tarafından sentezlenir. DNA'daki deoksiriboz şekeri yerine [[Karbonhidratlar#^pentoz|Riboz]] şekeri bulunur.
 
 ---
 ## Mesajcı RNA (mRNA)
@@ -17,7 +17,7 @@
 ---
 ## Ribozomal RNA (rRNA)
 - [[Proteinler]] ile birlikte [[Ribozom]] organelinin yapısına katılır.
-- Katlanmalar yaparak tRNA ve mRNA için uygun ortam oluşturur.
+- tRNA ve mRNA için uygun ortam oluşturur.
 - Denk gelen nükleotitleri arasında **hidrojen bağı** kurulur.
 - Hücrede en fazla bulunan RNA çeşididir.
 

@@ -1,4 +1,4 @@
->Deoksiribonükleotitlerden meydana gelir ve **çift zincirlidir.** Zincir oluşturuan nükleotitlerin arasında **fosfodiester** bağı vardır. Karşılıklı nükleotitlerin arasında **hidrojen** bağı vardır. Hidrojen bağları her zaman adenin ile timin, sitozin ile guanin arasındadır. Adenin ile timin iki, sitozin ile guanin üç bağ yapar.
+>Deoksiribonükleotitlerden meydana gelir ve **çift zincirlidir.** Zincir oluşturuan nükleotitlerin arasında **fosfodiester** bağı vardır. Karşılıklı nükleotitlerin arasında **hidrojen** bağı vardır. Hidrojen bağları her zaman adenin ile timin, sitozin ile guanin arasındadır. Adenin ile timin iki, sitozin ile guanin üç bağ yapar. Ökaryotlarda [[Çekirdek]], prokaryotlarda [[Sitoplazma|Sitoplazmada]] bukunur.
 
 ---
 ## DNA Eşlenmesi (Replikasyon)
@@ -9,6 +9,7 @@
 - Yeni zincirlerden biri kesintili, diğeri kesintisizdir.
 - Kesintili zincirdeki nükleotit **(okazaki)** parçaları **DNA ligaz** ile birleştirilir.
 - Meydana gelen DNA'lar birbirinin ve ata DNA'nın tıpatıp aynısıdır.
+- Prokaryotlarda DNA halkasal olduğu için bir noktadan başlar ve zıt iki yönde devam eder.
 
 > [!info] DNA Replikasyonunda Orijin
 > - DNA replikasyonunun başladığı noktalara **orijin** denir.
