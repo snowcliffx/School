@@ -19,9 +19,10 @@ ___
 - Çok miktarda [[Fotosentez#Klorofil|Klorofil]] pigmenti içerdiği için yeşildir.
 - **Proplast** veya lökoplasttan meydana gelebilir.
 - [[Çekirdek]] kontrolünde kendi sayısını arttırabilir.
+- Ökaryot hücrelerde [[Fotosentez]] tepkimesinin gerçekleştiği yerdir.
 - İç zarı düzdür ve iç zarın içe doğru yaptığı uzantılar **tilakoit** zar sistemini oluşturur.
 - **Stroma** ve **grana** olmak üzere iki kısımdan oluşur.
-- Stroma; [[DNA]], [[RNA]], [[Ribozom]] ve [[Fotosentez]] enzimlerinin bulunduğu yerdir.
+- Stroma; [[DNA]], [[RNA]], [[Ribozom]] ve fotosentez enzimlerinin bulunduğu yerdir.
 - Grana kule şeklindeki **granumlardan** meydana gelir.
 - Granumlar klorofil pigmenti içeren disk şeklindeki **tilakoitlerin** üst üste gelmesiyle oluşur.
 - Granumlar ara lamellerle birbirine bağlanır. Işığı daha iyi alabilmek için yüzeyleri geniştir.
