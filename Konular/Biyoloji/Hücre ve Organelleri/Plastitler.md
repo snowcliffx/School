@@ -9,14 +9,19 @@ ___
 ___
 ## Kromoplast
 - Bitkilere **karotenoidlerle** sarı, kırmızı ve turuncu rengini verir.
-	1. **Ksantofil:** Sarı
-	2. **Karoten:** Turuncu
-	3. **Likopen:** Kırmızı
+	1. Ksantofil: Sarı
+	2. Karoten: Turuncu
+	3. Likopen: Kırmızı
 - Üremeyi kolaylaştırır, fotosenteze yardımcı olur ve vitamin sentezler. 
 
 ___
 ## Kloroplast
-- Çok miktarda klorofil pigmenti içerir, yeşildir.
+- Çok miktarda [[Fotosentez#Klorofil|Klorofil]] pigmenti içerdiği için yeşildir.
 - **Proplast** veya lökoplasttan meydana gelebilir.
-- İç zarı düzdür ve iç zarın içe doğru yaptığı uzantılar **Tilakoit** zar sistemini oluşturur.
--WIP !!!
+- [[Çekirdek]] kontrolünde kendi sayısını arttırabilir.
+- İç zarı düzdür ve iç zarın içe doğru yaptığı uzantılar **tilakoit** zar sistemini oluşturur.
+- **Stroma** ve **grana** olmak üzere iki kısımdan oluşur.
+- Stroma; [[DNA]], [[RNA]], [[Ribozom]] ve [[Fotosentez]] enzimlerinin bulunduğu yerdir.
+- Grana kule şeklindeki **granumlardan** meydana gelir.
+- Granumlar klorofil pigmenti içeren disk şeklindeki **tilakoitlerin** üst üste gelmesiyle oluşur.
+- Granumlar ara lamellerle birbirine bağlanır. Işığı daha iyi alabilmek için yüzeyleri geniştir.
