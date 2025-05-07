@@ -13,5 +13,6 @@
 - ## [[Sinir Sistemi]]
 - ## [[Endokrin Sistem]]
 - ## [[Duyu Organları]]
+- ## [[Sindirim Sistemi]]
 - ## [[Genden Proteine]]
 - ## [[Enerji Dönüşümleri]]
