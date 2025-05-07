@@ -7,7 +7,7 @@
 > - Yapıya katılma sırası: [Protein > Yağ > Karbonhidrat]
 > - Enerji verme miktarı: [Yağ > Protein > Karbonhidrat]
 
-___
+---
 ## Amino Asitler
 - Bir amino asidin yapısında aynı karbon atomuna bağlı **hidrojen**, **karboksil** (COOH), **amino** (NH₂) ve **radikal** (R) grubu vardır.
 
@@ -18,7 +18,7 @@ ___
 > [!abstract]+ Bir molekül amino asidin açık formülü aşaıdaki gibidir.
 > ![[Amino Asit Yapısı.png]]
 
-___
+---
 ## Proteinlerin Yapısı
 - Proteinler başlangıçta **primer** (birincil) yani düz zincir halindedir. Katlanarak sırasıyla **sekonder** (ikincil) ve **tersiyer** (üçüncül) yapıya ulaşır. Bir proteinin aktif sayılması için en az tersiyer yani polipeptit zincir yapıda olmalıdır. En son olarak da **kuatarner** (dördüncül) yapıya ulaşır.
 

@@ -1,8 +1,6 @@
->Temel bileşenler organik ve inorganik olarak ikiye ayrılır. Organik maddeler canlılar tarafından üretilir. İnorganik maddeler ise dışardan alınmak zorundadır.
+>Temel bileşenler organik ve inorganik olarak ikiye ayrılır. Organik maddeler canlılar tarafından üretilir. İnorganik maddeler ise dışardan alınmak zorundadır. Organik madde üretebilen canlılar inorganik maddeleri kullanır. Belirli bir organik maddeyi üretemeyen canlılar bu ihtiyacını diğer canlılardan karşılar.
 
->Organik madde üretebilen canlılar inorganik maddeleri kullanır. Belirli bir organik maddeyi üretemeyen canlılar bu ihtiyacını diğer canlılardan karşılar.
-
-___
+---
 ## İnorganik Bileşenler
 - [[Tuz ve Mineraller#Mineraller|Minareller]]
 - [[Tuz ve Mineraller#Tuzlar|Tuzlar]]
@@ -18,7 +16,7 @@ ___
 > [!warning] Dikkat!
 > Asit ve bazlar sadece inorganik değildir, organik halleri de bulunur. Mesela amino asit, nükleik asit ve yağ asidi organik asitler; adenin, guanin ve sitozin ise organik bazlardır.
 
-___
+---
 ## Organik Bileşenler
 - [[Karbonhidratlar]]
 - [[Lipitler]]

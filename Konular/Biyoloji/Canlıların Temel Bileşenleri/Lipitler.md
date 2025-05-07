@@ -3,21 +3,21 @@
 > [!warning] Dikkat!
 > Lipitler asla polimer yapılı değildir!
 
-___
+---
 ## Trigliseritler (Nötral Yağlar)
 
 - **Doymuş** (hayvansal ve katı), **doymamış** (bitkisel ve sıvı) ve **doyurulmuş** olarak üçe ayrılır. Doymamış yağlarda çiftli bağ bulunur.
 
 - **Üç yağ asidi** ve **bir gliserolun** sentezinden meydana gelir ve sonucunda 3H₂O çıkar. Bu yüzden **trimer** yapılıdır. Sadece tek çeşit yağ asidiyle oluşmak zorunda değildir.
 
-___
+---
 ## Fosfolipitler
 
 - Trigliseritlerin aksine üçüncü bir yağ asidi yerine fosfat bulunur ama hala **trimer** yapılıdır. [[Hücre Zarı|Hücre Zarının]] yapısına katılır. Yağda çözünen maddelerin zardan daha hızlı geçmesini sağlar.
 
 - Kuyruk kısmı suyu sevmeyen yani **hidrofob** yapılıyken baş kısmı suyu seven yani **hidrofil** yapılıdır. Bunun nedeni gliserolun **polar** yapıda olmasıdır. Bu sayede kuyruk kısımları birbirine bakacak biçimde fosfolipitler **çift katlı tabaka** oluştururlar.
 
-___
+---
 ## Steroitler
 
 - Birbirine bağlanmış dört halkadan oluşur ve monomer yapılıdır. Hücre zarından doğrudan geçebilmeleri, hormonların yapısına katılınca olumlu bir özelliktir.

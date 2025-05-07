@@ -2,7 +2,7 @@
 
 >**Antonie van Leeuwenhoek** ise daha iyi bir mikroskobla tükürük ve mantar gibi maddeleri inceleyerek mikropları görmüştür. Günümüzde mikrobiyolojinin babası kabul edilir.
 
-___
+---
 ## Hücre Teorisi
 - Canlılarım tümü bir ya da birden çok hücreden meydana gelir.
 - Tüm **metabolik olaylar ve enerji akışları hücrenin içinde** gerçekleşir.
@@ -10,7 +10,7 @@ ___
 - Hücreler genetik bilgiyi bölünerek aktarır.
 - Hücrelerin tümü, bir hücrenin bölünmesiyle meydana gelir.
 
-___
+---
 ## Hücrelerin Gruplandırılması
 - Hücreler temelde **prokaryot** ve **ökaryot** olarak ikiye ayrılır. Her iki hücre de temel olarak [[Sitoplazma]] ve [[Hücre Zarı|Hücre Zarından]] meydana gelir. Sitoplazmada bileşenler ve **organeller** bulunur. Ökaryotlarda [[Çekirdek]] ve **zarlı organel** varken prokaryotta ikisi de yoktur.
 
@@ -21,7 +21,7 @@ ___
 ### Ökaryot
 >Prokaryotlara göre büyüktür. **Hücre duvarı, hücre zarı, sitoplazma ve çekirdek** olmak üzere dört bölümden meydana gelir. Bazı protista ve hayvanlarda hücre duvarı bulunmaz. Sitoplazmada temel bileşenlerle zarlı ve zarsız organeller bulunur. DNA ise çekirdekte bulunur. Metabolik olayların bazısı sitoplazmada bazısı ise organellerde gerçekleşir. Çift zarlı organellerin kendilerine has DNA'ları vardır.
 
-___
+---
 ## Hücrelerde Bulunan Temel Yapılar
 1. [[Hücre Duvarı]]
 2. [[Hücre Zarı]]

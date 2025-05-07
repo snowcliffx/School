@@ -8,7 +8,7 @@
 - ## [[Kalıtım]]
 - ## [[Ekosistem Ekolojisi]]
 
-___
+---
 # Biyoloji AYT
 - ## [[Sinir Sistemi]]
 - ## [[Endokrin Sistem]]

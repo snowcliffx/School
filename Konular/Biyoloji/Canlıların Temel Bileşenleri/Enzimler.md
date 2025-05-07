@@ -2,7 +2,7 @@
 
 > Etkiledikleri maddelere **substrat** denir. Enzim ile substrat arasında anahtar-kilit ilişkisi bulunur. Geçici bir bağ kurarak **enzim-substrat kompleksi** oluştururlar. Substrat, ürüne değiştikten sonra bağlantı kopar ve enzim tepkimeden **değişmeden** çıkar.
 
-___
+---
 ## Enzimlerin Yapısı
 - Enzimler, **basit** ya da **bileşik** yapıda olabilirler. Basit enzimler yalnız proteinden, bileşik enzimler ise hem protein hem de yardımcı kısımdan meydana gelirler. Bileşik enzimlerin protein yapılı kısmına **apoenzim** denir. Yardımcı kısım ise ya **koenzim** ya da **kofaktördür**.
 ### Kofaktör
@@ -12,7 +12,7 @@ ___
 
 - Bir yardımcı molekül çeşidi birden fazla çeşit apoenzimin aktifleştiricisi olabilir, fakat her çeşit apoenzimin sadece bir çeşit yardımcısı vardır. bu yüzden apoenzim sayısı, yardımcı molekül sayısından fazladır.
 
-___
+---
 ## Enzim Hızını Belirleyen Faktörler
 1. Sıcaklık:
 	- Sıfır derece ve altında enzimler çalışmaz.
