@@ -12,7 +12,8 @@
 # Kelimeler
 
 - ### Sindirim Sistemi
-	- 
+	- Kimyasal Sindirim | [[Enzimler]] kullanılarak besinlerin parçalanması.
+	- Mekanik Sindirim | Diş ve kas kullanılarak besinlerin parçalanması.
 - ### Genden Proteine
 	- Antikodon | [[RNA#Taşıyıcı RNA (tRNA)|tRNA'daki]] üçlü nükleotit grubu.
 	- Başlatıcı Kodon | [[Protein Sentezi]] için başlatıcı faktör. AUG (metiyonin amino asidi).

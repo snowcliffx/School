@@ -1,0 +1,2 @@
+## Fagositoz
+## Pinositoz
