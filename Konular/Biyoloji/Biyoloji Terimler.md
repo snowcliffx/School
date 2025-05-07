@@ -12,23 +12,27 @@
 # Kelimeler
 
 - ### Sindirim Sistemi
-	- Kimyasal Sindirim | [[Enzimler]] kullanılarak besinlerin parçalanması.
+	- Epiglottis | **Yutakta** bulunur ve besinlerin soluk borusuna kaçmasını önler.
+	- Goblet Hücreleri | Mukoza tabakasından salgılanır, **Yemek Borusunu** kaygan tutar.
+	- Kimyasal Sindirim | **Enzimler** kullanılarak besinlerin parçalanması.
 	- Mekanik Sindirim | Diş ve kas kullanılarak besinlerin parçalanması.
+	- Mukoza Tabakası | **Yemek Borusunun** içinde **Epitel Dokudan** oluşan tabaka.
+	- Peristaltik Hareket | Besinlerin ilerlemesini sağlayan kasılıp ve gevşeme hareketi.
 - ### Genden Proteine
-	- Antikodon | [[RNA#Taşıyıcı RNA (tRNA)|tRNA'daki]] üçlü nükleotit grubu.
-	- Başlatıcı Kodon | [[Protein Sentezi]] için başlatıcı faktör. AUG (metiyonin amino asidi).
+	- Antikodon | **tRNA'daki** üçlü nükleotit grubu.
+	- Başlatıcı Kodon | **Protein Sentezi** için başlatıcı faktör. AUG (metiyonin amino asidi).
 	- Biyoinformatik | Biyolojik bulguların derlenmesini sağlayan bilim alanı.
-	- Durdurucu Kodon | [[Protein Sentezi|Protein Sentezini]] durdurur. UAG, UGA, UAA (amino asidi yoktur).
-	- Gen İzolasyonu | Bir genin [[DNA|DNA'nın]] geri kalanından ayıklanması.
-	- Genetik Kod | [[DNA]] ya da [[RNA#Mesajcı RNA (mRNA)|mRNA'da]] kodon adı verilen üçlü nükleotit dizileri.
-	- Genom | Organizmaya ait [[DNA|DNA'daki]] genetik bilgilerin hepsi.
+	- Durdurucu Kodon | **Protein Sentezini** durdurur. UAG, UGA, UAA (amino asidi yoktur).
+	- Gen İzolasyonu | Bir genin **DNA'nın** geri kalanından ayıklanması.
+	- Genetik Kod | **DNA** ya da **mRNA'da** kodon adı verilen üçlü nükleotit dizileri.
+	- Genom | Organizmaya ait **DNA'daki** genetik bilgilerin hepsi.
 	- Genomik | Genom üzerindeki bilim alanı.
 	- İnvitro Koşul | Yapay veya laboratuvar ortamı.
-	- Kalıp Zincir | Sentezlenecek proteine ait bilgi taşıyan [[DNA]] zinciridir.
+	- Kalıp Zincir | Sentezlenecek proteine ait bilgi taşıyan **DNA** zinciridir.
 	- Melezleme | Farklı canlılarda bulunan genetik özelliği tek bir canlıda toplama.
-	- Poliploidi | [[Kromozom]] aktarması.
-	- Rekombinant DNA | Bir [[DNA|DNA'dan]] diğerine gen aktarımıyla oluşan yeni DNA.
-	- Replikasyon (Eşlenme) | [[DNA#DNA Eşlenmesi (Replikasyon)|DNA Eşlenmesinin]] başlamasıdır.
+	- Poliploidi | **Kromozom** aktarması.
+	- Rekombinant DNA | Bir **DNA'dan** diğerine gen aktarımıyla oluşan yeni DNA.
+	- Replikasyon (Eşlenme) | **DNA Eşlenmesinin** başlamasıdır.
 	- Santral Dogma | Replikasyon, transkripsiyon ve translasyon olaylarının bütünü.
-	- Transkripsiyon (Yazılma) | [[RNA#RNA Sentezi (Transkripsiyon)|RNA Sentezinin]] başlaması.
-	- Translasyon (Okunma) | [[Protein Sentezi|Protein Sentezinin]] başlaması.
+	- Transkripsiyon (Yazılma) | **RNA Sentezinin** başlaması.
+	- Translasyon (Okunma) | **Protein Sentezinin** başlaması.
