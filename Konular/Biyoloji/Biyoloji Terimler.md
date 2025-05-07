@@ -13,10 +13,10 @@
 
 - ### Sindirim Sistemi
 	- Epiglottis | **Yutakta** bulunur ve besinlerin soluk borusuna kaçmasını önler.
-	- Goblet Hücreleri | Mukoza tabakasından salgılanır, **Yemek Borusunu** kaygan tutar.
+	- Goblet Hücreleri | Mukus üreterek **Yemek Borusu/Mideyi** kaygan tutar. (Mukozada)
 	- Kimyasal Sindirim | **Enzimler** kullanılarak besinlerin parçalanması.
 	- Mekanik Sindirim | Diş ve kas kullanılarak besinlerin parçalanması.
-	- Mukoza Tabakası | **Yemek Borusunun** içinde **Epitel Dokudan** oluşan tabaka.
+	- Mukoza Tabakası | **Yemek Borusu/Midenin** içinde **Epitel Dokudan** oluşan tabaka.
 	- Peristaltik Hareket | Besinlerin ilerlemesini sağlayan kasılıp ve gevşeme hareketi.
 - ### Genden Proteine
 	- Antikodon | **tRNA'daki** üçlü nükleotit grubu.
