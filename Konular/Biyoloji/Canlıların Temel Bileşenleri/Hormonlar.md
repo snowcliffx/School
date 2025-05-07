@@ -1,10 +1,18 @@
->Yüksek organizasyonlu canlılarda hücre iletişimi sağlarlar. Genellikle [[Proteinler|Protein]] veya [[##Steroitler|Steroit]] yapılı olmalarıyla birlikte [[Proteinler#Amino Asitler|Amino Asit]] yapılı da olabilirler. Bez veya sinir hücrelerinden çıkıp hedef hücreye kan ile taşınırlar.
+>Hormonlar, yüksek organizasyonlu canlılarda hücre iletişimi sağlarlar.
 
->Çok az miktarlarla bile uzun süreli ve büyük etki gösterebilirler. Hormonlar, yıkılıncaya kadar etkilerini sürdürür.
+---
+## Hormonların Özellikleri
+- Etkilenen dokuya **kan yoluyla** taşınır ve belli dokular veya organlar üzerinde etkilidir.
+- **Homeostasinin** sağlanmasında etkilidir, [[Sinir Sistemi]] ile birlikte koordinasyonu sağlar.
+- Endokrin bezler, karma bezler ve sinir hücreleri tarafından salgılanır.
+- [[Proteinler|Protein]], [[Lipitler#Steroitler|Steroit]] veya [[Proteinler#Amino Asitler|Amino Asit]] yapılı olabilirler.
+- Etkisini göstermesi için kanda **belli bir seviyeye** ulaşması gerekir.
+- Sinir sistemindeki uyartıların aksine **etkileri uzun ve yavaştır.**
+- İşleri bitince enzimler tarafından parçalanır.
 
 > [!info] Bazı Hormon Örnekleri
-> - İnsülin: Kan şekerini düzenler. | Protein Yapılı
-> - Glukagon: Kan şekerini düzenler. | Protein Yapılı
-> - Tiroksin: Metabolizma hızını düzenler. | Amino Asit Yapılı
-> - Östrojen: Dişi üreme sistemini düzenler. | Steroit Yapılı
-> - Testosteron: Erkek üreme sistemini düzenler. | Steroit Yapılı
+> - **İnsülin:** Kan şekerini düzenler. | Protein Yapılı
+> - **Glukagon:** Kan şekerini düzenler. | Protein Yapılı
+> - **Tiroksin:** Metabolizma hızını düzenler. | Amino Asit Yapılı
+> - **Östrojen:** Dişi üreme sistemini düzenler. | Steroit Yapılı
+> - **Testosteron:** Erkek üreme sistemini düzenler. | Steroit Yapılı
