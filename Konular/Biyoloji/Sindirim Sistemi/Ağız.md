@@ -7,7 +7,7 @@
 - **Pulpa:** Bağ dokudan oluşur, sinir ve kan damarları içerir.
 
 ---
-## Dil
+## Dil (Sindirim)
 - Her yöne hareket ettirilebilir.
 - Tadın alınmasını sağlar ve besinlerin [[Yutak|Yutağa]] aktarılmasını kolaylaştırır.
 
