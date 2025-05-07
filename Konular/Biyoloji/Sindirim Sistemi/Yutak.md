@@ -1,0 +1,1 @@
+>Yemek ve soluk borularına geçişin yapıldığı kısımdır. [[Düz Kas]] ve zar yapıdadır ve içi boştur. [[Dil]] ile geriye itilen besinler yutağa aktarılır. Yutkunma sırasında **epiglottis (gırtlak kapağı)** soluk borusunu kapayarak besinin [[Yemek Borusu|Yemek Borusunda]] aktarılmasını sağlar.
