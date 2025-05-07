@@ -2,6 +2,6 @@
 
 ---
 ## Ara Beyin
-- ### Talamus
-- ### Hipotalamus
-- ### Epitalamus
+### Talamus
+### Hipotalamus 
+### Epitalamus

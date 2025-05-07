@@ -9,6 +9,7 @@
 - Etkisini göstermesi için kanda **belli bir seviyeye** ulaşması gerekir.
 - Sinir sistemindeki uyartıların aksine **etkileri uzun ve yavaştır.**
 - İşleri bitince enzimler tarafından parçalanır.
+- __WIP: STEROİT VE PROTEİN YAPILI HORMONLARIN FARKI__
 
 > [!info] Bazı Hormon Örnekleri
 > - **İnsülin:** Kan şekerini düzenler. | Protein Yapılı
