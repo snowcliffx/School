@@ -4,5 +4,9 @@
   "newFileLocation": "current",
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "showIndentGuide": true
 }

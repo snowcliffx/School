@@ -12,12 +12,22 @@
 # Kelimeler
 
 - ### Sindirim Sistemi
+	- Amilaz | **Polisakkaritleri** parçalayan enzim.
 	- Epiglottis | **Yutakta** bulunur ve besinlerin soluk borusuna kaçmasını önler.
+	- Fundus | **Midenin** içindeki en büyük kısım.
 	- Goblet Hücreleri | Mukus üreterek **Yemek Borusu/Mideyi** kaygan tutar. (Mukozada)
+	- Gastrin | **Midenin** çalışmasını kontrol eden hormon.
+	- Kardia | **Midenin** yemek borusuna bakan açıklığı.
+	- Kimus | **Mideden** çıkan bulamaç halindeki besinler.
 	- Kimyasal Sindirim | **Enzimler** kullanılarak besinlerin parçalanması.
 	- Mekanik Sindirim | Diş ve kas kullanılarak besinlerin parçalanması.
 	- Mukoza Tabakası | **Yemek Borusu/Midenin** içinde **Epitel Dokudan** oluşan tabaka.
+	- Paryetal Hücreler | **Midede** hidroklorik asit (HCl) salgılar.
 	- Peristaltik Hareket | Besinlerin ilerlemesini sağlayan kasılıp ve gevşeme hareketi.
+	- Periton | **Midenin** en dışındaki tabakadır; **İnce Bağırsak** ve **Mide** yüzeyini nemlendirir.
+		- Ayrıca iki organın da birbirlerine zarar vermesini önler.
+	- Pilor | **Midenin** ince bağırsağa bakan açıklığı.
+	- Şef Hücreleri | **Midede** inaktif pepsinojen enzimini salgılar.
 - ### Genden Proteine
 	- Antikodon | **tRNA'daki** üçlü nükleotit grubu.
 	- Başlatıcı Kodon | **Protein Sentezi** için başlatıcı faktör. AUG (metiyonin amino asidi).
