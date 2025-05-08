@@ -18,16 +18,23 @@
 	- Goblet Hücreleri | Mukus üreterek **Yemek Borusu/Mideyi** kaygan tutar. (Mukozada)
 	- Gastrin | **Midenin** çalışmasını kontrol eden hormon.
 	- Kardia | **Midenin** yemek borusuna bakan açıklığı.
+	- Kilus | **İnce Bağırsaktan** besinlerin sindirimi sonucu çıkan sıvı.
 	- Kimus | **Mideden** çıkan bulamaç halindeki besinler.
 	- Kimyasal Sindirim | **Enzimler** kullanılarak besinlerin parçalanması.
+	- Koledok Kanalı | Safra sıvısının döküldüğü kanaldır.
 	- Mekanik Sindirim | Diş ve kas kullanılarak besinlerin parçalanması.
+	- Mikrovillus | Villusların üzerindeki uzantı ve çıkıntılar.
 	- Mukoza Tabakası | **Yemek Borusu/Midenin** içinde **Epitel Dokudan** oluşan tabaka.
 	- Paryetal Hücreler | **Midede** hidroklorik asit (HCl) salgılar.
 	- Peristaltik Hareket | Besinlerin ilerlemesini sağlayan kasılıp ve gevşeme hareketi.
 	- Periton | **Midenin** en dışındaki tabakadır; **İnce Bağırsak** ve **Mide** yüzeyini nemlendirir.
 		- Ayrıca iki organın da birbirlerine zarar vermesini önler.
 	- Pilor | **Midenin** ince bağırsağa bakan açıklığı.
+	- Sekretin-Kolesistokinin | **İnce Bağırsaktan** salgılanan hormonlar.
 	- Şef Hücreleri | **Midede** inaktif pepsinojen enzimini salgılar.
+	- Villus | **İnce Bağırsakta** epitel dokunun yaptığı katlanmalar
+	- Virsung Kabarcığı | Pankreas salgısıyla safra sıvısının **İnce Bağırsakta** buluştuğu yer.
+	- Wirsung Kanalı | Pankreas salgısının döküldüğü kanaldır.
 - ### Genden Proteine
 	- Antikodon | **tRNA'daki** üçlü nükleotit grubu.
 	- Başlatıcı Kodon | **Protein Sentezi** için başlatıcı faktör. AUG (metiyonin amino asidi).
