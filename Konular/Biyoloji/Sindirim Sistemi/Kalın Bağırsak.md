@@ -1,0 +1,1 @@
+>Sindirilmeyen atıklar vücuttan uzaklıştırılır. Su ve mineral emilimi gerçekleşir fakat sindirim yoktur. Bakteriler yardımıyla B ve K vitaminleri sentezlenir. [[İnce Bağırsak]] ile birleştiği kısma **kör bağırsak** denir. Kör bağırsağın ince bağırsak ucunda bulunan kapak, kalın bağırsağa geçen içeriğin geri dönmesini engeller. Bu kapağın altında **apandis** bulunur.
