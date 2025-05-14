@@ -33,3 +33,7 @@
 	- [[Pankreas]]
 	- Safra Kesesi
 	- [[Ağız#Tükürük Bezleri|Tükürük Bezleri]]
+
+> [!info] Bilgi
+>  [[Besinlerin Sindirimi]] adım adım gerçekleşir.
+
