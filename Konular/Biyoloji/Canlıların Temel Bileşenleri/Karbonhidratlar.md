@@ -19,15 +19,15 @@
 
 ---
 ## Disakkaritler
-4. Maltoz:
+1. Maltoz:
 	- İki tane glikozun birleşmesiyle oluşur.
 	- Arpa tohumlarında bulunur, **arpa şekeri** olarak bilinir.
 	- Bitkiseldir.
-5. Sükroz (Sakkaroz):
+2. Sükroz (Sakkaroz):
 	- Glikoz ve fruktozun birleşmesiyle oluşur.
 	- Şeker kamışında ve pancarında bulunur, **çay şekeri** olarak bilinir.
 	- Bitkiseldir.
-6. Laktoz: 
+3. Laktoz: 
 	- Glikoz ve Galaktozun birleşmesiyle oluşur.
 	- Memeli hayvanların sütünde bulunur.
 	- Hayvansaldır.

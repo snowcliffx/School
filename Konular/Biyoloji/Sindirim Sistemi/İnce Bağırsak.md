@@ -33,7 +33,7 @@
 	- Tripeptidaz
 	- Dipeptidaz
 	- Aminopeptidaz
-3. Nükleotidaz
+3. Nükleotidaz (Nükleotit)
 4. Enterokinaz
 
 > [!warning] Dikkat!
