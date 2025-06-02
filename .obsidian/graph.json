@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "path:Konular/Tarih",
+      "color": {
+        "a": 1,
+        "rgb": 8601407
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 0.75,
   "linkDistance": 400,
-  "scale": 0.11327440363728342,
-  "close": true
+  "scale": 0.5734516684137472,
+  "close": false
 }
