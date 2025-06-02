@@ -1,4 +1,4 @@
->Karın boşluğunun sol üst bölümünde bulunur. **Vagus siniri** ve **gastrin hormonu** kontrolünde çalışır. İçten dışa doğru **mukoza**, alt mukoza, [[Düz Kas]] ve [[Dokular#Bağ Doku|Bağ Doku]] bulunur. İçindeki en geniş kısma **fundus** denir. En dıştakı tabakaya **periton** denir.
+>Karın boşluğunun sol üst bölümünde bulunur. **Vagus siniri** ve **gastrin hormonu** kontrolünde çalışır. İçten dışa doğru **mukoza**, alt mukoza, [[Düz Kas]] ve [[Dokular#Bağ Doku|Bağ Doku]] bulunur. İçindeki en geniş kısma **fundus** denir. En dıştakı tabakaya **periton (mide zarı)** denir.
 
 > Periton, salgıladığı sıvıyla mide ve bağırsakların yüzeylerini nemlendirir ve birbirlerine zarar vermelerini önler. Mideyi terk eden besinlere **kimus** denir. [[Yemek Borusu|Yemek Borusuna]] bakan açıklığa **kardia**, [[İnce Bağırsak|İnce Bağırsağa]] bakan açıklığa **pilordur**.
 

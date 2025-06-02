@@ -4,7 +4,7 @@
 
 1. Ağız ve ince bağırsakta **amilaz** enzimi, nişasta ve glikojeni parçalar. Bundan açığa [[Karbonhidratlar#Disakkaritler|Maltoz]] ve küçük polisakkarit zinciri olan **dekstrin** çıkar.
 
-> [!example] Tepkimesi
+> [!example] Tepkime
 > - Nişasta + H₂O **->** Maltoz + Dekstrin
 > - Glikojen + H₂O **->** Maltoz + Dekstrin
 
