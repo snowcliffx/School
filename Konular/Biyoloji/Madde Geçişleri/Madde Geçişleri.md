@@ -15,4 +15,3 @@
 > 2. Nötr > İyon
 > 3. Negatif İyon > Pozitif İyon
 > 4. Yağda Çözünen > Suda Çözünen
-> - Yukarıdaki gibi olmak üzere bazı moleküller zardan daha kolay geçer.

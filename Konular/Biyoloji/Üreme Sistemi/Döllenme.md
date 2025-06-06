@@ -1,0 +1,3 @@
+>Döllenme [[Dişi Üreme Sistemi#Yumurta Kanalı (Fallopi Tüpü)|Yumurta Kanalında]] gerçekleşir ve sadece bir sperm tarafından gerçekleştirilebilir. Yumurta, zona pellusida adı verilen bir zarla çevrilidir. Spermin **akrozomunda (en baş kısmında)** bulunan enzimler yumurta zarını eritir ve çekirdeğin içeri geçmesini sağlar.
+
+>Haploit (n kromozomlu) yapıdaki sperm ve yumurta çekirdeklerinin kaynaşması sonucu 2n kromozomlu **zigotun** oluşmasına döllenme denir. Döllenmeden sonra yumurta sitoplazmasındaki enzimler, zona pellusidanın sertleşmesini sağlar. Bu sayede başka sperm yumurtanın içine giremez.

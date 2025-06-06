@@ -14,7 +14,7 @@
 - [[Böbrek Üstü Bezleri|Böbrek Üstü Bezlerinde]] **kabuk bölgesinin** çalışmasını kontrol eder.
 - Steroit yapılı hormonların sentezini ve salgılanmasını kontrol eder.
 ### MSH (Melanosit Stimule Hormon)
-- Derinin [[Deri#Epidermis (Üst Deri)|Epidermis]] kısmında bulunan **melanositleri** uyarır.
+- [[Deri#Epidermis (Üst Deri)|Epidermiste]] bulunan **melanositleri** uyarır.
 - Bu hücreler **melanin** pigmenti üreterek derinin rengini koyulaştırır.
 ### STH (Somatotropin Hormon)
 - [[Proteinler|Protein]] yapılı olan bu hormon genel bir tanımıyla büyüme hormonudur.
@@ -47,7 +47,7 @@
 ### ADH (Vazopressin)
 - Vücutta su miktarını düzenleyerek homeostasiyi sağlar.
 - Ozmoreseptörler ile kanın ozmotik basıncını düzenler.
-- [[Böbreklerde]] idrardan suyun geri emilimini sağlar.
+- [[Böbrekler|Böbreklerde]] idrardan suyun geri emilimini sağlar.
 - Gerekenden az salgılanırsa su miktarı idrarda artar, kanda azalır.
 	- Bu hastalığa **şekersiz şeker hastalığı** denir.
 - Alkol, ADH etkisini engeller; bu yüzden alkol alan insanlar daha çok idrara çıkar.
